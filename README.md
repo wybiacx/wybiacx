@@ -28,5 +28,5 @@ I specialize in taking complex AI algorithms—from Computer Vision to Transform
 
   * **CUDA Operator Development:** Custom high-performance kernel implementations for LLM attention mechanisms and CV feature extraction.
   * **Evolutionary Deep Learning:** Researching hybrid approaches to automate architecture search (NAS) and hyper-parameter optimization for vision tasks.
-  * **End-to-End FPGA Acceleration:** Designing robust hardware architectures for data-intensive workloads, ensuring seamless integration between software drivers and hardware logic.
+  * **End-to-End FPGA Acceleration:** Designing robust hardware architectures for compute-intensive workloads, ensuring seamless integration between software drivers and hardware logic.
 
